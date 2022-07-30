@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/marine-mammal-center-crew/static/css/main.073c9b0a.css",
-    "main.js": "/marine-mammal-center-crew/static/js/main.ef087036.js",
+    "main.js": "/marine-mammal-center-crew/static/js/main.47054d6f.js",
     "static/js/787.bd573606.chunk.js": "/marine-mammal-center-crew/static/js/787.bd573606.chunk.js",
     "static/media/logo.svg": "/marine-mammal-center-crew/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/marine-mammal-center-crew/index.html",
     "main.073c9b0a.css.map": "/marine-mammal-center-crew/static/css/main.073c9b0a.css.map",
-    "main.ef087036.js.map": "/marine-mammal-center-crew/static/js/main.ef087036.js.map",
+    "main.47054d6f.js.map": "/marine-mammal-center-crew/static/js/main.47054d6f.js.map",
     "787.bd573606.chunk.js.map": "/marine-mammal-center-crew/static/js/787.bd573606.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ef087036.js"
+    "static/js/main.47054d6f.js"
   ]
 }
